@@ -35,5 +35,6 @@ Nos enfocamos en un caso práctico ampliamente conocido:
 
 ---
 
-## 📁 Estructura del Proyecto
+## 📁 Check out
+https://colab.research.google.com/drive/1qmIYmWA0uKo6wCX69ze5QjAX7QwuSRdu 
 
